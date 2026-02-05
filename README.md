@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[snake gif](https://github.com/dusunenn/dusunenn/blob/output/github-snake.svg)
+![snake gif](https://github.com/dusunenn/dusunenn/blob/output/github-snake.svg)
 
