@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Meehmet</h2>
 
 ###
 
@@ -74,5 +73,4 @@ Here are some ideas to get you started:
 
 ###
 
-![snake gif](https://github.com/dusunenn/dusunenn/blob/output/snake.svg)
 
