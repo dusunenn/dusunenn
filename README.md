@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Meehmet</h2>
+<h2 align="left">Hi 👋! My name is Mehmet</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.imgflip.com/7tmweu.gif"  />
+  <img height="300" src="https://i.imgflip.com/7tmweu.gif"  />
 </div>
 
 ###
